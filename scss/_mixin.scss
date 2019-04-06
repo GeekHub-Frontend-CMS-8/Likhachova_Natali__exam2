@@ -1,0 +1,9 @@
+@mixin subtitle{
+  font: {
+    family: $main-font;
+    size: 16px;
+    weight: 400;
+  }
+  color:  #77777e;
+  line-height: 30px;
+}
